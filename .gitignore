@@ -7,6 +7,7 @@ practice_data1.csv
 sales_data_practice.csv
 psp.ipynb
 goal.txt
+cleaned_data
 
 # 3. Ignore the Virtual Environment (CRITICAL)
 .venv/

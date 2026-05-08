@@ -4,6 +4,12 @@
 ## Project Overview
 This project implements a **Medallion Architecture** to process and analyze over 4 million rows of e-commerce behavior data. Using **PySpark**, I transformed raw, unoptimized CSV data into a high-performance analytical layer stored in **Parquet** format.
 
+## Dataset
+The dataset used for this project is the **eCommerce behavior data from multi category store** (October 2019) available on Kaggle.
+* **Size:** 4M+ rows
+* **Format:** CSV (Ingested and converted to Parquet)
+* **Source:** [View Dataset on Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
+
 ## Project Roadmap & Milestones
 
 ### Goal 1: Environment & Schema (The Foundation)

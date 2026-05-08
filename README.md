@@ -1,3 +1,4 @@
+<img width="347" height="228" alt="Screenshot 2026-05-08 152155" src="https://github.com/user-attachments/assets/4e0e7951-6d3d-46e7-b529-00c8025d5dd9" />
 # E-Commerce Data Engineering & Analytics
 
 ## Project Overview

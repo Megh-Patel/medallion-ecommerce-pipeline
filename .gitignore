@@ -9,7 +9,7 @@ psp.ipynb
 goal.txt
 cleaned_data
 
-# 3. Ignore the Virtual Environment (CRITICAL)
+# 3. Ignore the Virtual Environment
 .venv/
 
 # 4. Ignore Jupyter's hidden system files

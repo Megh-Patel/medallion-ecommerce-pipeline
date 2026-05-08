@@ -1,8 +1,8 @@
 <img width="347" height="228" alt="Screenshot 2026-05-08 152155" src="https://github.com/user-attachments/assets/4e0e7951-6d3d-46e7-b529-00c8025d5dd9" />
-# E-Commerce Data Engineering & Analytics
+# Medallion Architecture: E-Commerce Data Pipeline (PySpark)
 
 ## Project Overview
-This project demonstrates a full data pipeline using **PySpark** to process over 4 million rows of e-commerce behavior data. I transformed raw CSV data into an optimized Parquet-based analytics layer, uncovering insights into customer behavior and revenue distribution.
+This project implements a **Medallion Architecture** to process and analyze over 4 million rows of e-commerce behavior data. Using **PySpark**, I transformed raw, unoptimized CSV data into a high-performance analytical layer stored in **Parquet** format.
 
 ## Project Roadmap & Milestones
 
